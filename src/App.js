@@ -15,3 +15,17 @@ function App() {
 }
 
 export default App;
+
+const ProductDashboard = () => {
+  console.log('Dashboard rendering...'); // Log de teste
+
+  // Teste básico dos dados
+  console.log('avecUsageData:', avecUsageData);
+
+  return (
+    <div className="p-4 space-y-4">
+      <h1 className="text-2xl font-bold mb-6">Dashboard em construção...</h1>
+      {/* Rest of the code... */}
+    </div>
+  );
+};
