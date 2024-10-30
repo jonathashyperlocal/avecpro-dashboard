@@ -6,4 +6,4 @@ Dashboard de análise de dados do Avec Pro.
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/[seu-usuario]/avecpro-dashboard.git
+git clone https://github.com/jonathashyperloca/avecpro-dashboard.git
